@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="skip">تخطى</string>
+    <string name="app_name">تعريف بالبرنامج</string>
+    <string name="next">التالى</string>
+    <string name="heading_one">اكتشف اكلك المفضل هنا</string>
+    <string name="desc_one">هنا يمكنك أن تجد طاهًا أو طبقًا لكل ذوق ولون.استمتع!</string>
+    <string name="heading_two">استمتع بتوصيل طعام سريع وسلس على عتبة داركم</string>
+    <string name="desc_two">ابحث عن اكلك المفضل هنا</string>
+    <string name="heading_three">ماذا تنتظر بعد !!</string>
+    <string name="desc_three">هيا اطلب </string>
+    <string name="back_btn">ارجع</string>
+    <string name="view_pager">تنقل</string>
+
+</resources>

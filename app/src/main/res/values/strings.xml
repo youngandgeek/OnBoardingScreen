@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OnBoardingScreen</string>
+    <string name="skip">Skip</string>
+    //Headings
+    <string name="heading_one">Find your comfort food here</string>
+    <string name="desc_one">Here You Can find a chef or dish for every taste and color. Enjoy!</string>
+    <string name="next">Next</string>
+    <string name="heading_two">Food Ninja is Where Your Comfort Food Lives</string>
+    <string name="desc_two">Find Your Favorite Food</string>
+    <string name="heading_three">What Are You Waiting For !!</string>
+    <string name="desc_three">Let\'s Order</string>
+
+    <string name="back_btn">Back</string>
+    <string name="view_pager">slider</string>
+
+
+</resources>
