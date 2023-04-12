@@ -1,5 +1,10 @@
 # OnBoardingScreen
-Splash Screen and onboarding screen Android Mobile Application for a Food Delivery App
+Android Mobile Food Delivery App: Localize Splash Screen and On-boarding Screen.
+
+Splash Screen Displaying Animated Icon with Motion-Layout
+
+On-boarding Screen displaying View Pager from an Adapter class.
+
 English - Arabic Languages
 
 ViewPager and MotionLayout with Animated Icon
