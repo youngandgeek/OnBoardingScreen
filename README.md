@@ -1,5 +1,5 @@
 # OnBoardingScreen
-Android Mobile Food Delivery App: Localize Splash Screen and On-boarding Screen.
+Android Mobile Food Delivery App: Localize Splash Screen and On-boarding Screen
 
 Splash Screen Displaying Animated Icon with Motion-Layout
 
